@@ -1,6 +1,6 @@
-# Elm with vite 6 and taiwindcss 4 Starter Template
+# Elm with Vite 6 and Tailwindcss 4 Starter Template
 
-I recently created the [Elm with webpack 5 and taiwindcss 4 Starter Template](https://github.com/stratis-vip/webpack-elm-tailwind-4)
+I recently created the [Elm with webpack 5 and tailwindcss 4 Starter Template](https://github.com/stratis-vip/webpack-elm-tailwind-4)
 but it looks like, vite is much simpler solution.
 
 So i will not update the webpack template any more!
